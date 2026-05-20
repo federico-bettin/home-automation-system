@@ -9,10 +9,10 @@ The system integrates multiple hardware platforms, communication protocols, and 
 ## 🗺️ System Architecture
 
 ### Node & Sensor Architecture
-![System Architecture](docs/architecture_nodes.png)
+![System Architecture](architecture_nodes.jpg)
 
 ### Network Architecture
-![Network Architecture](docs/architecture_network.png)
+![Network Architecture](architecture_network.jpg)
 
 ---
 
