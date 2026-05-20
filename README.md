@@ -102,11 +102,12 @@ This dual-network approach ensures that the security subsystem cannot be reached
 
 ## 👤 About
 
-This project was designed and built as a personal engineering challenge, with the goal of replacing commercial home automation systems with a fully custom, transparent, and extensible solution.
+This project was designed and built as a personal engineering challenge, 
+with the goal of replacing commercial home automation systems with a fully 
+custom, transparent, and extensible solution.
 
-All hardware integration, firmware, software, and network architecture were designed and implemented by a single person — a senior automation and embedded systems engineer with 20+ years of industrial experience.
-
-> *"The best way to understand a system is to build one from scratch."*
+All hardware integration, firmware, software, and network architecture 
+were designed and implemented by a single person.
 
 ---
 
