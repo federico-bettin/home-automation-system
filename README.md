@@ -1,6 +1,6 @@
 # 🏠 Home Automation & Security System
 
-A fully custom-built, distributed home automation and security system designed and implemented from scratch by a senior embedded/automation engineer.
+A fully custom-built, distributed home automation and security system designed and implemented from scratch.
 
 The system integrates multiple hardware platforms, communication protocols, and software environments into a unified architecture — covering energy monitoring, intrusion detection, access control, motorized curtains, and remote monitoring via smartphone.
 
