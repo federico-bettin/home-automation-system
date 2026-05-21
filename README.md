@@ -107,7 +107,7 @@ with the goal of replacing commercial home automation systems with a fully
 custom, transparent, and extensible solution.
 
 All hardware integration, firmware, software, and network architecture 
-were designed and implemented by a single person.
+were designed and implemented on my own time and passion over a period of 2 years 
 
 ---
 
